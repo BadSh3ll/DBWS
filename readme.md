@@ -1,4 +1,4 @@
-# DBWS COURSE MAUAL
+# DBWS COURSE MANUAL
 
 ## Introduction
 
@@ -51,7 +51,7 @@ To generate SSH keys, you can use the following command:
 ssh-keygen
 ```
 
-This will generate a public and private key pair in the `~/.ssh` directory. The name of the keys could be (id_rsa, id_rsa.pub) or (id_ed25519, id_ed25519.pub), ... etc. Depending on the algorithm
+This will generate a public and private key pair in the `~/.ssh` directory. The name of the keys could be (id_rsa, id_rsa.pub) or (id_ed25519, id_ed25519.pub), ... etc. Depending on the algorithm.
 
 To copy the public key to the server, you can use the following command:
 
